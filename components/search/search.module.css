@@ -1,0 +1,10 @@
+.search {
+  @apply relative inline-block w-full;
+}
+
+.search button {
+  @apply flex rounded-full w-full max-w-lg mx-auto;
+  @apply text-[#777777] bg-white shadow p-2;
+  @apply items-center justify-center transition-colors;
+  @apply hover:bg-gray-200;
+}
