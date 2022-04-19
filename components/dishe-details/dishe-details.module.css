@@ -1,4 +1,4 @@
-.detail {
+.details {
   @apply flex items-center;
   @apply text-sm text-gray-500;
 }
